@@ -1,23 +1,34 @@
 # App Estetica Flutter
 
-Proyecto de aprendizaje enfocado en una aplicacion para servicios de estetica.
+<div align="center">
 
-## Objetivo
+![Learning](https://img.shields.io/badge/Tipo-Aprendizaje-0ea5e9?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Business](https://img.shields.io/badge/Flujo-Servicios-16a34a?style=for-the-badge)
 
-Practicar el desarrollo de una aplicacion movil con interfaces orientadas a servicios, citas o gestion de informacion de un negocio de estetica.
+**Practica de aprendizaje para una app de servicios de estetica en Flutter.**
 
-## Tecnologias
+</div>
 
-- Flutter
-- Dart
-
-## Enfoque del proyecto
-
-- Diseno de pantallas para servicios
-- Practica de formularios y navegacion
-- Organizacion de componentes visuales
-- Exploracion de flujos de aplicacion para negocio
+---
 
 ## Contexto
 
-Repositorio de practica personal para fortalecer habilidades en Flutter y desarrollo de aplicaciones moviles.
+Proyecto de aprendizaje orientado a una aplicacion movil para servicios, citas o gestion de informacion de un negocio de estetica.
+
+## Proposito
+
+- Practicar diseno de pantallas para servicios.
+- Trabajar formularios y navegacion.
+- Organizar componentes visuales.
+- Explorar flujos de aplicacion para negocio.
+
+## Tecnologias
+
+![Flutter](https://img.shields.io/badge/Flutter-2563eb?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0ea5e9?style=flat-square&logo=dart&logoColor=white)
+![Services](https://img.shields.io/badge/Servicios-16a34a?style=flat-square)
+
+## Estado
+
+Proyecto de practica personal para fortalecer desarrollo movil.
