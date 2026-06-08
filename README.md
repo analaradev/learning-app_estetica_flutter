@@ -1,16 +1,23 @@
-# appestetica
+# App Estetica Flutter
 
-A new Flutter project.
+Proyecto de aprendizaje enfocado en una aplicacion para servicios de estetica.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Practicar el desarrollo de una aplicacion movil con interfaces orientadas a servicios, citas o gestion de informacion de un negocio de estetica.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Enfoque del proyecto
+
+- Diseno de pantallas para servicios
+- Practica de formularios y navegacion
+- Organizacion de componentes visuales
+- Exploracion de flujos de aplicacion para negocio
+
+## Contexto
+
+Repositorio de practica personal para fortalecer habilidades en Flutter y desarrollo de aplicaciones moviles.
